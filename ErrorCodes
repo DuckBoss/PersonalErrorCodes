@@ -12,5 +12,8 @@ Unable to open the database!
 DA02 - 
 Unable to close the database!
 
+DA03 - 
+There is a problem with the database connection!
+
 DR01 -
 Unable to access the database fields for ID registration!
